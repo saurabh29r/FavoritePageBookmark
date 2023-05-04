@@ -15,7 +15,7 @@ Also If we missed any detail then Error meassage will shown as below
 
 ![Error](https://user-images.githubusercontent.com/48233777/236137187-5e7f89f0-f61b-4e95-9e39-df12b35af6f6.png)
 
-Also checked the page insights and best parctices found 100% .
+Also checked the page insights and best practices found 100% .
 
 
 ![Page insights](https://user-images.githubusercontent.com/48233777/236137783-e874f3dc-af8f-418d-aa25-303a8e2b2267.png)
