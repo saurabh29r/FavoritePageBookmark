@@ -6,7 +6,7 @@ Here the most interesting part is the page book mark section created dynamically
 ![Blankformpage](https://user-images.githubusercontent.com/48233777/236136642-4abe78f8-41e2-4495-bad4-5c67128ae39a.png)
 
 
-When we fill all details and click on submit button , pages will start creating dynamically.
+When we fill all details and click on submit button , pages will start creating dynamically and input will be blank.
 
 ![Favorite BookMarkpage](https://user-images.githubusercontent.com/48233777/236136780-11d61e04-23e2-48b5-9b5e-2ffad0f6f032.png)
 
