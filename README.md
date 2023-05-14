@@ -2,7 +2,7 @@
 Live link => https://formurls.ccbp.tech/
 
 In This project , I have created a Favorite bookmark page . 
-Here the most interesting part is the page book mark section created dynamically after submit the required details
+Here the most interesting part is the page book mark section created dynamically after submit the required details.
 ![Blankformpage](https://user-images.githubusercontent.com/48233777/236136642-4abe78f8-41e2-4495-bad4-5c67128ae39a.png)
 
 
